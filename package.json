@@ -2,7 +2,7 @@
   "name": "react-perumahan",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://herocyber12.github.io/react-perumahan",
+  "homepage": "https://herocyber12.github.io/react-perumahan",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.2",
     "@fortawesome/free-brands-svg-icons": "^6.5.2",
