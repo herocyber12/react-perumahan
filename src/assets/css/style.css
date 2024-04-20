@@ -1,0 +1,153 @@
+.masking {
+    mask-type: alpha;
+}
+.headers img{
+    width: 100%;
+}
+.fasilitas{
+	width: 800px;
+}
+.type__rumah{
+	margin: 0;
+	padding: 0;
+}
+
+.type__rumah p{
+	font-size: 36px;
+	color: #FFFFFF
+}
+.slider-wrapper {
+    position: relative;
+    text-align: center; /* Mengatur konten ke tengah horizontal */
+}
+
+.nav-link{
+	color: #736C64 !important;
+}
+
+.nav-link::hover{
+	color: #3F3B36 !important;
+}
+.slider-nav {
+    position: absolute;
+    bottom: 0; /* Sesuaikan dengan jarak dari bawah container */
+    left: 50%; /* Pusatkan slider-nav secara horizontal */
+    transform: translateX(-50%);
+    width: 650px; /* Sesuaikan lebar slider-nav */
+}
+
+.slider-nav img {
+    display: inline-block; /* Agar elemen gambar dapat diatur ke tengah */
+    margin: 0 5px; /* Sesuaikan dengan jarak antara gambar */
+}
+.slider{
+	margin: 0;
+	width: 80%;
+}
+.footer-shadow {
+	box-shadow: 0 -0.5rem 1rem rgba(0, 0, 0, 0.15)!important;
+}
+
+.view__headers{
+	height: 172px;
+    position: relative;
+    background: url("../img/sky-view (1).webp")no-repeat center;
+    background-size: cover;
+    z-index: 1;
+}
+.view__headers_griya{
+	height: 172px;
+    position: relative;
+    background: url("../img/griya-surya-room (1).webp")no-repeat center;
+    background-size: cover;
+    z-index: 1;
+}
+
+.view__headers_griya_fasilitas{
+	height: 172px;
+    position: relative;
+    background: url("../img/griya-surya-room (1).webp")no-repeat center;
+    background-size: cover;
+    z-index: 1;
+}
+
+.view__fasilitas{
+	height: 200px;
+    position: relative;
+    background: url("../img/sky-view (1).webp")no-repeat center;
+    background-size: cover;
+    z-index: 1;
+}
+
+.view__headers::after{
+	 position: absolute;
+    content: "";
+    top: 0;
+    left:0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,.5);
+    z-index: -1;
+}
+.view__headers_griya::after{
+	 position: absolute;
+    content: "";
+    top: 0;
+    left:0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,.5);
+    z-index: -1;
+}
+.view__headers_griya_fasilitas::after{
+	 position: absolute;
+    content: "";
+    top: 0;
+    left:0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,.5);
+    z-index: -1;
+}
+.view__fasilitas::after{
+	 position: absolute;
+    content: "";
+    top: 0;
+    left:0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,.5);
+    z-index: -1;
+}
+
+.view__headers h1{
+	color: #FFFFFF;
+	margin: 0;
+	padding: 0;
+}
+
+@media only screen and (max-width: 990px){
+	.fasilitas{
+		width: 650px;	
+	}
+}
+
+@media only screen and (max-width: 767px){
+	.slider-nav{
+		width: 450px;
+	}
+	
+	.fasilitas{
+		width: 500px;
+	}
+}
+
+@media only screen and (max-width: 576px){
+	.slider-nav{
+		width: 350px;
+	}
+	
+	.fasilitas{
+		width: 400px;
+	}
+}
