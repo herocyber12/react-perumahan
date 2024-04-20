@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/react-perumahan/static/css/main.fd72c8c8.css",
+    "main.js": "/react-perumahan/static/js/main.08b66c41.js",
+    "static/js/453.786033f6.chunk.js": "/react-perumahan/static/js/453.786033f6.chunk.js",
+    "static/media/siteplan-sky-view.webp": "/react-perumahan/static/media/siteplan-sky-view.425f4a1c33dfb5e1cc06.webp",
+    "static/media/sky-view (8).webp": "/react-perumahan/static/media/sky-view (8).ff131c30969e0d202062.webp",
+    "static/media/sky-view (2).webp": "/react-perumahan/static/media/sky-view (2).75397c959c5c2545bdf8.webp",
+    "static/media/sky-view (3).webp": "/react-perumahan/static/media/sky-view (3).bcbcafd8a00ce38d27ae.webp",
+    "static/media/griya-surya (1).webp": "/react-perumahan/static/media/griya-surya (1).baaa9577164e220da145.webp",
+    "static/media/sky-view (5).webp": "/react-perumahan/static/media/sky-view (5).37879637e9e6342a5223.webp",
+    "static/media/sky-view (7).webp": "/react-perumahan/static/media/sky-view (7).bb3327c7aab4a837c606.webp",
+    "static/media/sky-view (4).webp": "/react-perumahan/static/media/sky-view (4).263df128e8ba5f83c3f4.webp",
+    "static/media/sky-view (6).webp": "/react-perumahan/static/media/sky-view (6).263df128e8ba5f83c3f4.webp",
+    "static/media/griya-surya-room (1).webp": "/react-perumahan/static/media/griya-surya-room (1).0d138503241b9d382f28.webp",
+    "static/media/sky-view (9).webp": "/react-perumahan/static/media/sky-view (9).1c324a57d3f756b0af45.webp",
+    "static/media/sky-view (1).webp": "/react-perumahan/static/media/sky-view (1).735815a36325edb8e567.webp",
+    "static/media/griya-surya-room (6).webp": "/react-perumahan/static/media/griya-surya-room (6).3b264b01c1e9ac8ab7bf.webp",
+    "static/media/griya-surya-ruko.webp": "/react-perumahan/static/media/griya-surya-ruko.b714e647df68e7061868.webp",
+    "static/media/siteplan-griya-surya.webp": "/react-perumahan/static/media/siteplan-griya-surya.f3c93a53836235425063.webp",
+    "static/media/griya-surya-room (7).webp": "/react-perumahan/static/media/griya-surya-room (7).58074faeb0493c100ba0.webp",
+    "static/media/griya-surya-room (3).webp": "/react-perumahan/static/media/griya-surya-room (3).7a0f49aa42261275ef7d.webp",
+    "static/media/griya-surya-room (5).webp": "/react-perumahan/static/media/griya-surya-room (5).62b06dd3c0a23eea2f09.webp",
+    "static/media/logo.webp": "/react-perumahan/static/media/logo.38f288c777c38034e038.webp",
+    "static/media/slick.svg": "/react-perumahan/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/react-perumahan/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/react-perumahan/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/react-perumahan/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/react-perumahan/index.html",
+    "main.fd72c8c8.css.map": "/react-perumahan/static/css/main.fd72c8c8.css.map",
+    "main.08b66c41.js.map": "/react-perumahan/static/js/main.08b66c41.js.map",
+    "453.786033f6.chunk.js.map": "/react-perumahan/static/js/453.786033f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd72c8c8.css",
+    "static/js/main.08b66c41.js"
+  ]
+}
